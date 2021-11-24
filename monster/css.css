@@ -1,0 +1,55 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background: black;
+}
+.head{
+    width: 100%;
+    background: black;
+}
+.home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 17%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.merch{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 21%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.drink{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 26%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    
+}
+.img{
+    position: absolute;
+    left: 10%;
+}
+.pulsante{
+    text-decoration: none;
+    width: 130px;
+    height: 40px;
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 3px;
+    position: absolute;
+    top: 75%;
+    left: 15%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
